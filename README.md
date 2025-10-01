@@ -53,5 +53,3 @@ ASSEMBLY-MATHEMATICS-QUIZ-SYSTEM/
 MIT License © 2025 Malik  M Shahmeer Rashid
 
 ---
-
----
