@@ -23,11 +23,12 @@ At the end of the game, the final score is displayed.
 ---
 
 ## 📂 Project Structure
+```
 ASSEMBLY-MATHEMATICS-QUIZ-SYSTEM/
 │── quiz.asm # Main assembly source code
 │── README.md # Project documentation
 │── .gitignore # Ignore unnecessary files
-
+```
 
 
 ---
