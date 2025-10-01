@@ -53,7 +53,5 @@ ASSEMBLY-MATHEMATICS-QUIZ-SYSTEM/
 MIT License © 2025 Malik  M Shahmeer Rashid
 
 ---
-## 🏷️ Topics / Tags
-`assembly-language` `emu8086` `x86` `quiz-game` `mathematics` `beginner-project` `low-level-programming`
 
 ---
