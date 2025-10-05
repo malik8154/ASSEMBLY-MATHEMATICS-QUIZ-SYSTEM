@@ -49,8 +49,6 @@ ASSEMBLY-MATHEMATICS-QUIZ-SYSTEM/
 
 ---
 
-## License
+## 📌 License
 
-MIT License © 2025 Malik  M Shahmeer Rashid
-
----
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
